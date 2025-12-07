@@ -1,0 +1,257 @@
+﻿
+
+title: GrandMom
+
+---
+Бабушка: Ох, внучек, ты уже проснулся, а я и не заметила. Как спалось?  
+
+Мы: Хорошо... Мне приснился сон, что я была мухой, и меня поймал большой паук. Мне кажется он что-то значит. 
+
+Бабушка: Свят, свят, свят... Ну и ерунда. Это плохие сны. Давай я лучше накормлю тебя вкусным завтраком. Я испекла твои любимые малиновые пирожки.  
+
+Мы: Спасибо, бабуль.  
+
+Бабушка: Bот молодец! А теперь беги в школу, не опоздай. Постараюсь сделать на ужин что-нибудь вкусное.
+
+-> Я ничего на ужин не хочу
+-> Твоя еда самая лучшая, спасибо большое
+Люблю тебя, внучок, до вечера
+===
+
+title: Mom
+
+---
+Мама: Сынок, доброе утро! Сегодня здорово выглядишь.  
+
+Мы: Доброе утро, мам.  
+
+Мама: Чисти зубы и скорей беги в школу, чтобы не опоздать!  
+
+Мы: Хорошо. А ты что сегодня будешь делать?  
+
+Мама: Мне нужно быстро собраться на работу. Очень не хочу опоздать в первый день на новой должности.  
+
+Мы: Расскажешь вечером, как всё прошло?  
+
+Мама: Боюсь, сегодня не смогу. В честь моего повышения папа пригласил меня в ресторан, отпраздновать. Так что к ужину нас не ждите.  
+
+Мы: Понятно. 
+Мама: Всё, мне нужно срочно собираться. Удачи тебе в школе!
+
+===
+
+title: Father
+
+---
+Папа: Ты как раз вовремя. Всё высохло.  
+
+Мы: Ты закончил собирать свой корабль?  
+
+Папа: Да, всё готово. Теперь я могу поставить его на полку и любоваться.  
+
+Мы: А что это за корабль?  
+
+Папа: Мой дорогой мальчик, это Золотая лань. Судно стало знаменитым, когда путешественник-пират Френсис Дрейк совершил на нём трёхгодичное плавание. С помощью этого корабля  было сделано много географических открытий, но ещё больше разбойничьих набегов на испанские суда у берегов Южной Америки.  
+
+Мы: Ого, как интересно! Ты будешь ещё собирать корабли?  
+
+Папа: Думаю, да. Но об этом позже. Сейчас тебе нужно собираться, да и мне не мешало бы.
+
+===
+
+title: Start
+
+---
+Charon: Greetings, my name is Charon. A long time ago I used to be a boatman, then a ferryman. Now I'm a taxi driver — and that suits me to a T. My car is old but reliable. I don't tire myself out much anymore. Also, no need to wait for passengers. All have to do is turn on the radio and tune in to the right frequency. My clients, I suppose, also prefer comfortable rides to getting frostbite while I'm taking them across Styx. The river Styx is so very wide and cold, you know.
+
+Charon: But what about the passage fare, you may ask. Well, don't worry, I won't demand gold or precious gems for my services. Just talk to me a bit — that'll be quite enough for me and my car.
+
+
+===
+
+title: Mara
+
+---
+Charon: And my colleagues get a lift for free. Like Mara now, for example.
+Mara: …
+Charon: — So, how is it?
+Mara: — Yet another fine day for me.
+Charon: — Tired?
+Mara: — Bad harvest. Unripe.
+Charon: — Want to elaborate?
+Mara: — It's a dark tale, so no, I don't.
+Charon: ...
+Mara: — Say, why do you never turn on the radio when I'm in the car?
+Charon: — Well, for you mortals are rye stalks and cornflowers in the fields. For me they are radio waves on the air. Want to listen to someone's story?
+Mara: — Oh, no! Leave me out of this!
+Charon: — As you wish, mistress.
+Mara: — Uh, whatever...
+Charon: — Should I stop before the bridge, like usual?
+Mara: — Yes. Thank you, Charon.
+Charon: — You're always welcome.
+
+===
+
+title: Linda
+
+---
+
+Linda: — W-why am in the car? I was just crossing the street, when everything went black. Now I'm here...
+
+Charon: — You haven't recalled it yet. This is normal, considering the circumstances. There's no need to be nervous. 
+
+Linda: —  That black car barreling at me... it really was there... I really saw it...
+
+Charon: — I do not wish to upset you even more, but you really have died.
+
+Linda: — No, no, no! This couldn't happen! It cannot be! My fellow nurses at the hospital... I promised them I would take an extra shift today. We got several little ones yesterday, they need thorough care, but the hospital is understaffed. The nurses are almost collapsing from exhaustion... 
+
+Linda: — And Mrs Rodgers...  I told her I would visit her next week. No-one knows who I would become if not for her. I wanted so much to thank her again for everything she had done for me...
+
+Linda: — And my dear Uncle John... He has a heart condition. If he hears I'm dead... please, please, let him be all right! I was just about to adopt a kitten for both of us. Uncle John would have a great companion for the day, and I would see the fluffy little ball of joy in the evening. And now... Uncle John will be alone again... 
+
+Charon: — Linda, please, listen…  
+
+Linda: — I just finished my education and began my career. I had a whole bunch of plans. I even thought I...
+
+Charon: — I wanted to tell you… 
+
+Linda: — Oh no... Martin! I know he's strong, he'll be fine, of course, he'll be fine… but I've never told him… 
+
+Linda: — No! I couldn't die! I couldn't up and disappear! This is even worse than betrayal, I simply vanished... I vanished from their lives and left nothing to lean on... nothing at all…
+
+Charon: — Linda! Please, believe me! You didn't vanish! Your existence is not over. Look out of the window. We have arrived. 
+
+Linda: …
+
+Charon: …
+
+Linda: — Such a strange place. It doesn't look much like paradise... and yet it looks so much like it.
+
+Charon: — We are across the bridge. I believe that here you will find everything you're looking for.
+
+Linda: — Do you really mean it?
+
+Charon: — Yes.
+
+Linda: — I… believe you. Thank you for the ride.
+
+Charon: — You're welcome, Linda.
+
+===
+
+
+
+title: John
+
+---
+
+John: — Well, that's a nice kettle of fish… A moment ago I was somewhere else, and now I'm sitting in some car. Have I finally lost all my marbles?
+
+John: — Ah, and who are you, young man?
+
+Charon: — I am your driver, sir. 
+
+John: — Not a big talker, I get it. Guess, I should tell you where to go, right? Wait a bit then, please, I'll try to remember… 
+
+John: — Oh, for crying out loud! I remember Mom and Dad, and both our cats, too — Richie and Connie. But does this old fool here remember what he did yesterday? No, sir! Well now, I'll try to start from the beginning...
+
+John: — I hope you don't mind me thinking out aloud. An old habit, you see.
+
+Charon: — No problem, sir. I'll wait.
+
+John: — You know, young man, my parents were the best. The bestest in the world. Mom and Dad were as thick as thieves. In all my years I've never seen such families as mine was.
+
+John: — I had good friends in the kindergarten and in primary school. But somehow we always were driven apart or simply drifted apart. And as I got older I had more and more buddies, and less and less friends. Guess that's why I got into reading when I became a teenager... 
+
+John: — After school I went to become an electrician. Why, you'll never be out of a job, and the pay is good. And you get the real results. Can't say the same when you're some paper pusher, right? I think I got that from Dad, he always loved working with his hands.
+
+John: — By that time my parents had just bought a house in the suburbs and moved there with Connie, and I stayed in the city. I wish Richie had seen the house, too, but, alas, not many cats live longer than twenty years.
+
+John: — And that's how I got to live alone. I worked. I had fun. Drank some beers in the bar on Fridays. Even met some girls — but somehow we always were driven apart or simply drifted apart. 
+
+John: — I visited my parents — often, at first, then my visits became rare and then even rarer. And when I turned thirty-five... I no longer had anyone to visit. A tree fell on the house during a storm... and I was all alone.
+
+John: — I worked. Tinkered with fancy electronics to keep my brain sharp. Read books. Drank beer with colleagues on Fridays. Did some volunteering at animal shelters on weekends. And that's how my life went.
+
+John: — After I got sixty-five, my health just kept getting worse — and I thought it was time to move to some care home. Didn't like the idea of dying alone for some poor fellow to sniff me out, like in those tabloid articles.
+
+John: — And then I met Linda. She moved into our house because it's really close to the hospital, and she got a job as a nurse there. She came to say hello — just like in the good old days, can you believe it? I remember it crystal clear: she stood on my doorstep smiling, with a homemade pie on the plate. I've never thought my heart could feel so light again. 
+
+John: — And that's the story how an old goat met his first real friend. Linda supported me a lot, and we always had things to talk about. She even helped me with the chores, at first. But then I got really angry with myself. Some man I am, a burden with a beard on the young girl's shoulders! And you know, I got so angry that I got better. I dealt with my own housework and began helping Linda out. Thanks to Mom, I can cook well, so every day I made hot meals for Linda. Because a young lady cannot subsist on sandwiches alone, especially when she's exhausted after the shift. 
+
+Charon: — You were really close with Linda, John.
+
+John: — Yeah... Never had a wife and children, but got blessed with a granddaughter. I even wanted to get a kitten or a puppy, was going to ask Linda who would she like more... She met a good guy, said she was looking forward to introducing us to each other soon. "I'd never marry him without your blessing, Uncle John", her own words... 
+
+John: — But then came the black day... my little sun was no more. Why couldn't that stupid car have hit me instead of her?! I am an old goat, I've lived my life, and she only started living, she had the whole life ahead of her.
+
+John: — When that police officer said Linda was gone, something snapped in my chest and everything went black. When I came to, I was in the hospital. The doctors said I'd had a massive heart attack and my chances were slim. But I only thought about Linda. Why her?! That was so wrong! That was so unfair! I thought about Linda, and it felt like my chest was on fire... 
+
+John: — Eh... so I died then? Well, at least, I did that in the hospital. But where am I now, young man?
+
+Charon: — You are at the edge of your world, sir. Over there, across the bridge, the other world is waiting for you.
+
+John: — The other world? Sounds… interesting.
+
+Charon: — Look out of the window. We have arrived. I believe you will like it here, sir. 
+
+John: — Wait, young man, don't I owe you something for the ride?
+
+Charon: — You have already paid in full. Thank you.
+
+===
+
+title:Martin
+
+---
+Martin: — Well now, that's rather unfortunate. I didn't expect to get here quite so soon. On the other hand, everything was leading to this outcome... so, shall we hit the road?
+
+Charon: — You haven't paid the passage fare yet. Tell me your story — it will be considered a payment made in full.
+
+Martin: — This is ridiculous!
+
+Charon: — The passenger is to pay for the passage. Your story, tell it.
+
+Martin: — What do you want me to tell you?! There was nothing interesting in my life. We will simply waste time, nothing more. You can demand something else from me, I don't mind. Just don't make me remember.
+
+Charon: — Rules are rules.
+
+Martin: — Rules, fares, stories… Have you considered I may not want to go anywhere?! You can take me to Hell, I don't care! Or where do you take those like me?
+
+Charon: — I can wait. Several minutes or several centuries, it makes no difference for me. Would you like that?
+
+Martin: — Oh, for the love of… There is nothing to tell! My life was a succession of days. Each given day was a dead ringer for the one before it and for the one after it. Without looking at the calendar, I couldn't tell Monday from Saturday. I woke up, ate, went to work, returned home, ate, went to sleep, and the day started anew. This was my life for twenty-four years. I hated what I did with a passion and wished to end it all every day. An interesting story, is it not? And would you like to know why I lived like that?
+
+Martin: — Because apart from work I had nothing…
+
+Charon: — You mean there was work and only work in your life?
+
+Martin: — Well, when I was a small child I liked drawing... but I dropped that as soon as I went to school. I can't even remember why. 
+
+Martin: — I was a prize pupil who finished school with flying colours. I went to the university and was a prize student there.
+
+Martin: — Then I met Linda… A chance meeting, like in those silly books and sappy films. And you know, it took me only several seconds to fall in love with her. She was the most beautiful, the most wonderful... the best in the world. Next to her my heart always felt so light. Next to her I always felt… alive. 
+
+Martin: — And then she up and disappeared. Stopped answering my calls. Stopped visiting her favourite coffee shop. I had been looking for her for a long, long time... until someone told me she had died.
+
+Martin: — I didn't believe them, of course. Linda simply couldn't die. She must have grown bored with me, a sore loser who had nothing to offer… and so I started to work even harder. 
+
+Martin: — Upon graduation I worked like a dog, clinging to hope that one day I would see Linda again. Then I started my own business. I worked, I toiled, I slaved away... and I didn't hope anymore. 
+
+Martin: — I haven't thought about her for too long…
+
+Martin: — Well, I kept my end of the bargain. Can we go now?
+
+Charon: — The car took off as soon as you started your story. Look out of the window. We have arrived.
+
+Martin: — Well, here's hoping my "life" here will have at least some meaning…
+
+===
+
+
+title: LindaBefore
+
+---
+Charon: I sometimes think Mara's existence is easier than mine. Her charges don't speak to her, so there's no need for her to listen to them. But then I always remember how beautiful, how harmonious some waves are, and how my own existence is so much richer because of them.
+===
